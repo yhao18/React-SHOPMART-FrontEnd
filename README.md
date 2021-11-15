@@ -9,4 +9,4 @@
 1. Create  a file called **_redirects** within the public folder.
 1. Inside the _redirects file, add the following code : **/* /index.html 200**
 1. Create a **.env** file within root of the project.
-1. Create an environment variable (wiithin the .env file) called REACT_APP_BACK_END_API_DOMAIN. Assign the value **http://localhost:5000**
+1. Create an environment variable (wiithin the .env file) called REACT_APP_BACK_END_API_DOMAIN. Assign the value **https://shopmart-backend-react.herokuapp.com/**
