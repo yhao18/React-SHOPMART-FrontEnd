@@ -26,6 +26,14 @@ const CategoryPage = (props) => {
             <main >
           
                 <CategoriesListing categories={props.categories}/>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
             </main>
             <Footer/>
         </div>
