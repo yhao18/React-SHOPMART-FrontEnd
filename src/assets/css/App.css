@@ -1,0 +1,56 @@
+
+
+
+.carousel-item{
+  height: 32rem;
+  background:#777;
+  color:white;
+  position:relative;
+}
+
+
+
+.hide{
+  visibility: hidden
+}
+
+.bestseller{
+  background-color:whitesmoke;
+  color:rgb(248, 105, 80);
+  
+}
+
+main.body{
+  height:75vh;
+  margin-top: 3rem;
+}
+
+footer.footer{
+  background-color: rgb(41, 41, 41);
+  margin-bottom:auto;
+
+
+}
+.error{
+  display:block;
+  color:red;
+  font-size: cal(1rem - 2px);
+}
+
+.links{
+  text-decoration: none;
+}
+
+
+
+.categoryCard {
+  border-radius: 50%;
+}
+
+.backGround{
+  background-image:url("../back.jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+
+}
